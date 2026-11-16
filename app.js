@@ -355,12 +355,13 @@
   }
 
   function iconImg(p, cls) {
-    var src = p.icon || '';
-    return (
-      '<img class="' + cls + '" src="' + escapeHtml(src) + '" alt="' + escapeHtml(p.title) + ' icon" loading="lazy" ' +
-      'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'),{className:\'' + cls + ' p-mono\'})).textContent=\'' + escapeHtml(p.title).slice(0, 1) + '\'">'
-    );
-  }
+  var src = p.icon || '';
+  var initial = escapeHtml((p.title || '?').slice(0, 1));
+  return (
+    '<img class="' + cls + '" src="' + escapeHtml(src) + '" alt="' + escapeHtml(p.title) + ' icon" loading="lazy" ' +
+    'onerror="this.replaceWith(Object.assign(document.createElement(\'span\'),{className:\'' + cls + ' p-mono\',textContent:\'' + initial + '\'}))">'
+  );
+}
 
   function itemIcons(p) {
     return (
