@@ -3,7 +3,7 @@ pid: 0000000012
 date: "2026-09-14"
 title: "Transformers"
 description: "The model-definition framework behind state-of-the-art machine learning — the atelier where every modern open model is fitted before it walks."
-icon: "https://github.com/huggingface.png"
+icon: ""
 image: "https://camo.githubusercontent.com/e6f8652bf6611c38461f18d909f827474c7f0265c7718de59593c635a699e409/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f7472616e73666f726d6572732f7472616e73666f726d6572735f61735f615f6d6f64656c5f646566696e6974696f6e2e706e67"
 thumbnail: ""
 category: "Machine Learning"
