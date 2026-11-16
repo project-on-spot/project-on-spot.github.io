@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 51.1831 51.0441" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="51.0441" width="51.1831" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M1.37668e-14 15.7008C2.08722e-14 7.02951 7.02951-8.88178e-16 15.7008 0L35.3838 4.44089e-16C44.0551 4.44089e-15 51.0846 7.02951 51.0846 15.7008L51.0846 35.3838C51.0846 44.0551 44.0551 51.0846 35.3838 51.0846L15.7008 51.0846C7.02951 51.0846-3.9968e-15 44.0551 0 35.3838L1.37668e-14 15.7008Z" fill="#f1f1f0" fill-rule="nonzero" opacity="0.477922" stroke="none" vectornator:layerName="Rectangle 1"/>
+<path d="M15.5423 14.5423L35.5423 14.5423C41.6175 14.5423 46.5423 19.4672 46.5423 25.5423L46.5423 25.5423C46.5423 31.6175 41.6175 36.5423 35.5423 36.5423L15.5423 36.5423C9.46719 36.5423 4.54232 31.6175 4.54232 25.5423L4.54232 25.5423C4.54232 19.4672 9.46719 14.5423 15.5423 14.5423Z" fill="#ebebeb" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2" vectornator:layerName="rect"/>
+<path d="M25.5423 24.5423C25.5423 20.124 29.124 16.5423 33.5423 16.5423C37.9606 16.5423 41.5423 20.124 41.5423 24.5423C41.5423 28.9606 37.9606 32.5423 33.5423 32.5423C29.124 32.5423 25.5423 28.9606 25.5423 24.5423Z" fill="#ffa810" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="circle"/>
+<path d="M26.7464 25.7123C26.7464 21.294 30.3282 17.7123 34.7464 17.7123C39.1647 17.7123 42.7464 21.294 42.7464 25.7123C42.7464 30.1305 39.1647 33.7123 34.7464 33.7123C30.3282 33.7123 26.7464 30.1305 26.7464 25.7123Z" fill="#c17b01" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="circle 1"/>
+</g>
+</svg>

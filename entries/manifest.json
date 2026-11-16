@@ -1,0 +1,22 @@
+{
+  "files": [
+    "ecc.md",
+    "a2ui.md",
+    "anime.md",
+    "statue.md",
+    "d3.md",
+    "excalidraw.md",
+    "fastapi.md",
+    "ffmpeg.md",
+    "nextjs.md",
+    "playwright.md",
+    "rust.md",
+    "svelte.md",
+    "tailwindcss.md",
+    "threejs.md",
+    "transformers.md",
+    "whisper.md",
+    "test.md",
+    "cherry-studio.md"
+  ]
+}
