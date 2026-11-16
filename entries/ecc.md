@@ -3,7 +3,7 @@ pid: 0000000018
 date: "2026-06-18"
 title: "ECC"
 description: "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
-icon: "https://ecc.tools/favicon.svg?v=ecc-mark"
+icon: ""
 image: "https://github.com/affaan-m/ECC/raw/main/assets/hero.png"
 thumbnail: "https://ecc.tools/media/control-pane-demo.jpg"
 category: "AI Agents"
