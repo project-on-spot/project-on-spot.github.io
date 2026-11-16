@@ -3,8 +3,8 @@ pid: 0000000011
 date: "2026-08-02"
 title: "Three.js"
 description: "The JavaScript 3D library that made the browser a stage — light, camera, geometry, rendered in real time."
-icon: "https://github.com/mrdoob.png"
-image: "https://x.com/FrankyHungDev/status/2103516946067292313/video/1"
+icon: ""
+image: ""
 thumbnail: ""
 category: "Visual Craft"
 tags: ["Creative Coding", "3D"]
